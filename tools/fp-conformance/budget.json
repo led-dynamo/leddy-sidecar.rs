@@ -1,0 +1,11 @@
+{
+  "budget": {},
+  "stats": {
+    "dart": 0,
+    "files": 1,
+    "lines": 12,
+    "rust": 1,
+    "ts": 0
+  },
+  "version": "1.0.0"
+}
